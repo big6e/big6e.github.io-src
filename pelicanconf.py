@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Edward Murphy'
 SITENAME = u'Big6e'
 SITEURL = ''
+THEME = '/home/emurphy/pelican-themes/bold'
 
 PATH = 'content'
 
